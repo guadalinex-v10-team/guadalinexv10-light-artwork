@@ -49,7 +49,7 @@
 </placement>
 
 <theme>
-  <name>Guadalinex-OB</name>
+  <name>Guadalinex-OpenBox</name>
   <titleLayout>NLIMC</titleLayout>
   <!--
       available characters are NDSLIMC, each can occur at most once.
