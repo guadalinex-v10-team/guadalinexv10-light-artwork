@@ -8,11 +8,11 @@
     <pos y="0" x="0" width="100%" height="100%"/>
   </item>
 
-  <!-- guadalinex logo -->
+  <!-- guadalinex logo 
     <item type="pixmap">
         <normal file="guadalinex_logo.svg" alpha="1.0"/>
         <pos x="50%" y="33%" anchor="c"/>
-    </item>
+    </item> -->
 
   <!-- Junta de Andalucía logo -->
     <item type="pixmap">
@@ -64,7 +64,7 @@
   
   <!-- password box -->
   <item type="rect">
-    <pos x="50%" y="51%" width="box" height="box" anchor="c"/>
+    <pos x="50%" y="45%" width="box" height="box" anchor="c"/>
         <box xpadding="50" ypadding="29" spacing="5" orientation="vertical">
           <item type="label" id="pam-prompt">
             <pos x="2" y="0"/>
