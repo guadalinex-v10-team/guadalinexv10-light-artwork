@@ -1,0 +1,4 @@
+@xscreensaver -no-splash
+@lxpanel --profile GUADA
+@pcmanfm --desktop --profile GUADA
+@/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
