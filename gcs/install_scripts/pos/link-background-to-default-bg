@@ -1,0 +1,5 @@
+if [ ! -e /usr/share/backgrounds/linuxmint/default_background.jpg ]
+then
+    ln -s /usr/share/backgrounds/guadalinex/guadalinex_v9-panoramico.jpg /usr/share/backgrounds/linuxmint/default_background.jpg
+fi
+
