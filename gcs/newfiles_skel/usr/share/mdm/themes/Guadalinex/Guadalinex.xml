@@ -64,7 +64,7 @@
   
   <!-- password box -->
   <item type="rect">
-    <pos x="50%" y="45%" width="box" height="box" anchor="c"/>
+    <pos x="50%" y="37%" width="box" height="box" anchor="c"/>
         <box xpadding="50" ypadding="29" spacing="5" orientation="vertical">
           <item type="label" id="pam-prompt">
             <pos x="2" y="0"/>
