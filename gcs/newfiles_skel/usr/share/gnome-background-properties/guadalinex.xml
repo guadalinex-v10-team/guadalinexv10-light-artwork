@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+
+<wallpaper deleted="false">
+    <name>Guadalinex V9 (Panoramico)</name>
+    <filename>/usr/share/backgrounds/guadalinex/guadalinexv9_panoramico.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+<wallpaper deleted="false">
+    <name>Guadalinex V9</name>
+    <filename>/usr/share/backgrounds/guadalinex/guadalinexv9_bg.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+<wallpaper deleted="false">
+    <name>Albagh (Ganador/a del concurso de fondos 2013)</name>
+    <filename>/usr/share/backgrounds/guadalinex/albagh-tux_sky.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+<wallpaper deleted="false">
+    <name>Albertoaru (Ganador/a del concurso de fondos 2013)</name>
+    <filename>/usr/share/backgrounds/guadalinex/albertoaru-guadalinex-clean.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+<wallpaper deleted="false">
+    <name>Davidmb91 (Ganador/a del concurso de fondos 2013)</name>
+    <filename>/usr/share/backgrounds/guadalinex/davidmb91-guad2.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+<wallpaper deleted="false">
+    <name>Gatoman (Ganador/a del concurso de fondos 2013)</name>
+    <filename>/usr/share/backgrounds/guadalinex/gatoman-4.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
+
+
