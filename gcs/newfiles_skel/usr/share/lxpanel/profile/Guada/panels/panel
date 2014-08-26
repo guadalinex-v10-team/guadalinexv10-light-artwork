@@ -60,10 +60,6 @@ Plugin {
         Button {
             id=firefox.desktop
         }
-        Button {
-            id=help-mantis.desktop
-        }
-
     }
 }
 
