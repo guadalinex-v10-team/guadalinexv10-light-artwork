@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=Guadalinex Theme
+Description=The Guadalinx official theme for plymouth.
+ModuleName=two-step
+
+[two-step]
+ImageDir=/lib/plymouth/themes/guada
+HorizontalAlignment=.5
+VerticalAlignment=.5
+Transition=none
+TransitionDuration=0.0
+BackgroundStartColor=0x515151
+BackgroundEndColor=0x616161
