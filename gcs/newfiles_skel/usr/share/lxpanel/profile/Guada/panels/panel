@@ -123,6 +123,10 @@ Plugin {
 }
 
 Plugin {
+    type = batt
+}
+
+Plugin {
     type = dclock
     Config {
         ClockFmt=%R
