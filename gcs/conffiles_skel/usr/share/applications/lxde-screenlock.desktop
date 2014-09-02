@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=ScreenLock
+Name[es]=Bloquear pantalla
+Name[es_ES]=Bloquear pantalla
+Comment=Lock your screen
+Icon=system-lock-screen
+Exec=light-locker-command -l
+NoDisplay=true
