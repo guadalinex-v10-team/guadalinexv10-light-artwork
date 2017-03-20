@@ -4,7 +4,7 @@ Description=Guadalinex text mode theme
 ModuleName=ubuntu-text
 
 [ubuntu-text]
-title=Guadalinex V9
+title=Guadalinex V10
 black=0x000000
 white=0xFFFFFF
 brown=0x9cee00
