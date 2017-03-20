@@ -1,6 +1,6 @@
-update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/guada/guada.plymouth 100
-update-alternatives --install /lib/plymouth/themes/text.plymouth text.plymouth /lib/plymouth/themes/guada-text/guada-text.plymouth 100
-update-alternatives --set default.plymouth /lib/plymouth/themes/guada/guada.plymouth 
-update-alternatives --set text.plymouth /lib/plymouth/themes/guada-text/guada-text.plymouth
+update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/guada/guada.plymouth 100
+update-alternatives --install /usr/share/plymouth/themes/text.plymouth text.plymouth /usr/share/plymouth/themes/guada-text/guada-text.plymouth 100
+update-alternatives --set default.plymouth /usr/share/plymouth/themes/guada/guada.plymouth 
+update-alternatives --set text.plymouth /usr/share/plymouth/themes/guada-text/guada-text.plymouth
 echo "FRAMEBUFFER=y" > /etc/initramfs-tools/conf.d/splash
 update-initramfs -u

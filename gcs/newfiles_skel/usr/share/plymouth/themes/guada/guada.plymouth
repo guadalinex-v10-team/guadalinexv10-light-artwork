@@ -4,7 +4,7 @@ Description=The Guadalinx official theme for plymouth.
 ModuleName=two-step
 
 [two-step]
-ImageDir=/lib/plymouth/themes/guada
+ImageDir=/usr/share/plymouth/themes/guada
 HorizontalAlignment=.5
 VerticalAlignment=.5
 Transition=none
