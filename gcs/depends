@@ -2,3 +2,9 @@
 # This file contains depends 
 ## END
 mint-artwork-common
+
+# Include dependencies to ensure that those packages are
+# installed before this (to hack the icons successfully).
+yelp
+mint-user-guide-cinnamon
+imagemagick

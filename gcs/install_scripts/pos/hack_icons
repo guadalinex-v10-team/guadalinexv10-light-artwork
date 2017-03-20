@@ -1,0 +1,17 @@
+# There are two yelp icons: one from "yelp" package and another from "mint-user-guide-cinnamon"
+# Just remove one of them
+rm -f /usr/share/applications/yelp.desktop
+
+# Since we have no GECOS help at this moment, just use Mint help as default
+if [ -d "/usr/share/help/C/linuxmint" ]; then
+	ln -s /usr/share/help/C/linuxmint /usr/share/help/C/ubuntu-help
+fi
+
+# ImageMagick package adds two icons that poitns to the same application
+# and these applications can't start because they need the terminal.
+# Also this application is not translated into Spanish.
+rm -f /usr/share/applications/display-im6.desktop
+rm -f /usr/share/applications/display-im6.q16.desktop
+
+# Hide vim
+rm -f /usr/share/applications/vim.desktop
