@@ -34,7 +34,7 @@ Plugin {
 Plugin {
     type = menu
     Config {
-        image=/usr/share/guadalinexv9-light-artwork/pixmaps/menu.png
+        image=/usr/share/guadalinex-light-artwork/pixmaps/menu.png
         system {
         }
         separator {
