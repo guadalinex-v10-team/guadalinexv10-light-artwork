@@ -1,7 +1,6 @@
 ## DEPENDS
 # This file contains depends 
 ## END
-mint-artwork-common
 
 # Include dependencies to ensure that those packages are
 # installed before this (to hack the icons successfully).
