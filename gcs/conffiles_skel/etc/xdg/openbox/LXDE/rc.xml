@@ -312,11 +312,11 @@
   </keybind>
 
   <!-- Launch lxde-logout when Power button is pressed -->
-	<keybind key="XF86PowerOff">
+	<!-- keybind key="XF86PowerOff">
       <action name="Execute">
         <command>lxde-logout</command>
       </action>
-    </keybind>  
+    </keybind -->  
   
     <!-- Fast access to Terminal -->
     <keybind key="C-A-T">
