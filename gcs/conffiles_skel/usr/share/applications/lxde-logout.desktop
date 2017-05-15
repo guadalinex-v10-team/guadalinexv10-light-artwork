@@ -2,9 +2,9 @@
 Encoding=UTF-8
 Type=Application
 Name=Shutdown
-Name[es-ES]=Apagar
+Name[es]=Apagar
 Comment=Shutdown or Reboot
-Comment[es-ES]=Apagar o reiniciar el equipo
+Comment[es]=Apagar o reiniciar el equipo
 Icon=system-shutdown
 Exec=lxde-logout
 NoDisplay=true
